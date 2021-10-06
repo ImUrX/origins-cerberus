@@ -31,7 +31,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run packwiz
         run: |
-          go get github.com/comp500/packwiz@latest
+          go install github.com/comp500/packwiz
           packwiz cf export
           unzip "Origins Cerberus*.zip" -d bin
           
