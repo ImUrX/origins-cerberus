@@ -1,0 +1,297 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".git/HEAD"
+hash = "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+
+[[files]]
+file = ".git/config"
+hash = "c9ea8d365212873fc9213d985de4ca6817ca63d4bf23479e52adea3d28b699a5"
+
+[[files]]
+file = ".git/description"
+hash = "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+
+[[files]]
+file = ".git/hooks/applypatch-msg.sample"
+hash = "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+
+[[files]]
+file = ".git/hooks/commit-msg.sample"
+hash = "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+
+[[files]]
+file = ".git/hooks/fsmonitor-watchman.sample"
+hash = "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4"
+
+[[files]]
+file = ".git/hooks/post-update.sample"
+hash = "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+
+[[files]]
+file = ".git/hooks/pre-applypatch.sample"
+hash = "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+
+[[files]]
+file = ".git/hooks/pre-commit.sample"
+hash = "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+
+[[files]]
+file = ".git/hooks/pre-merge-commit.sample"
+hash = "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+
+[[files]]
+file = ".git/hooks/pre-push.sample"
+hash = "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+
+[[files]]
+file = ".git/hooks/pre-rebase.sample"
+hash = "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+
+[[files]]
+file = ".git/hooks/pre-receive.sample"
+hash = "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+
+[[files]]
+file = ".git/hooks/prepare-commit-msg.sample"
+hash = "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+
+[[files]]
+file = ".git/hooks/push-to-checkout.sample"
+hash = "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+
+[[files]]
+file = ".git/hooks/update.sample"
+hash = "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+
+[[files]]
+file = ".git/index"
+hash = "a32ce0459142355aa2e3410e61e9fec25567cb103e81ee65eab58983241f0792"
+
+[[files]]
+file = ".git/info/exclude"
+hash = "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "1af2966446d05737fb62daee408688955a72a985b81a2955997b839a4a42a1b6"
+
+[[files]]
+file = ".git/logs/refs/heads/main"
+hash = "1af2966446d05737fb62daee408688955a72a985b81a2955997b839a4a42a1b6"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/HEAD"
+hash = "1af2966446d05737fb62daee408688955a72a985b81a2955997b839a4a42a1b6"
+
+[[files]]
+file = ".git/objects/pack/pack-ba54df21fc0b041449d881479b5ff53d8839aad3.idx"
+hash = "cd101e98d5a28afa8e05fe6d2ff2ebf372413355d48385de22b90e9ec43b4362"
+
+[[files]]
+file = ".git/objects/pack/pack-ba54df21fc0b041449d881479b5ff53d8839aad3.pack"
+hash = "c44454ee49c870f74d27cced94ad9604262f8fa790507ef384baf0e1eb1864c6"
+
+[[files]]
+file = ".git/packed-refs"
+hash = "7270c53fe8b7a701cbd7631e21fa154eae27e482d6904234aa041099ae8f91e3"
+
+[[files]]
+file = ".git/refs/heads/main"
+hash = "1bc007a0bdc9ced8a14a214ba9aa30172a0821f79044335a91797fe8c7658d80"
+
+[[files]]
+file = ".git/refs/remotes/origin/HEAD"
+hash = "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4"
+
+[[files]]
+file = ".gitignore"
+hash = "7709d5824361e1f49712c8f1d9247efd5d1dde5271428478b7ea582175531891"
+
+[[files]]
+file = "LICENSE"
+hash = "bcfc20d0ab70ec8915abc1c21e85f55e4c90610220199b012e65eda49e1796c3"
+
+[[files]]
+file = "README.md"
+hash = "c43a0295026feede1eeb42eb9a96d7790a89b61caf27120957abed7e918aa5c5"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "913b496f2738cb68a981fccaa49928d7f078bb5831030507b368d19e853236c3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.toml"
+hash = "4819af6e7d78be6fc3f8e22d5cf8dda7c051c862e3b2a01d3c4716f031446710"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.toml"
+hash = "3d599d4dd3564729e799db2a4c48ebfe152a348dfff39200f6ef05ea6a957ffe"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.toml"
+hash = "3592764947713d02c3c023fda05a9afbbeb35464bb80f0bb5236c37a27f84085"
+metafile = true
+
+[[files]]
+file = "mods/caelus-fabric.toml"
+hash = "ebf3816d9432a9c4f9f0f619393057add7f6d91b6818ef68ac6892dfa47b4b79"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.toml"
+hash = "73d7183e7d17bbe83fba165262b0e575e6e23707dda5a7cbb7d27305ae25bd38"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "e83d84ab1a411f6d798ec2779e7f6d1e4886de3ce16466d6c640781b0c36ca12"
+metafile = true
+
+[[files]]
+file = "mods/carrier.toml"
+hash = "3cf707c48658551283b6534df565f5bb45b3cb32e486550a16282b9061d179c0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "23c9f81f00f8b379444d5e65508298fe7ab5695172281ac938dd1285b9336c63"
+metafile = true
+
+[[files]]
+file = "mods/controlling-for-fabric.toml"
+hash = "01783b2083552cce21ee30a50e5416cafff9064a0ef4764f987e06e857fe98b0"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models-fabric.toml"
+hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.toml"
+hash = "9fdc3ab12f72c12547ea1d1edfb67fca1fa4b272417f65839ff5da9ce67ec649"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "274c0a33dd2d7b4bdc99978fa11b83f6b74deb0b1795303a968234f1eea241fc"
+metafile = true
+
+[[files]]
+file = "mods/icarus-fabric.toml"
+hash = "e2bd63456b06f4397ad85091a58d826f913514e5138c7a64c946f5e8d0210d40"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/inmis.toml"
+hash = "26ad38a6dfb9fe8c0e0fcd3b8b070a9efbfc3f86df3905f1da21128e7a325509"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "290f25ecb199d3010dd5fa5ce6e148577766e0a362129cfa5de6250bfe2702d1"
+metafile = true
+
+[[files]]
+file = "mods/littletweaks.toml"
+hash = "4551539b96ebf730cd9221ec90bcd562340be4fd21921547b5d6ee3ffdfe31fa"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "7c761c51deba63b76caffc2d41af96ccae70ef0cbb789db682d3fc7b43994f67"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "4cc631d311069a2c3f72b1839f1e1d3368636f11908597036f438bede9f3e8ea"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.toml"
+hash = "284b2fa3e560bd536e0eab5bf4b1ece1a49bf84622fdac0f80f47d2086a42b43"
+metafile = true
+
+[[files]]
+file = "mods/origins-the-planeswalker.toml"
+hash = "321718c3c47faac9de357d1e65cc06296f92c1f8fd749aa4c996bc5ebf0d3db0"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "4eb4e7e7931f8666af1ed35fc2a3b2c4694c26398c57cd3c4a76d92424b3e69a"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "535750efa01f1ff2baff03b0c98e99682e4838d2b86609ef965136558ccf2947"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "ba45f34a9018ff5a9737b693f393c5dde767aa75dc2a0b377c6b7642e8f44a95"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "6242f4ae0017232f0411b8df4a9f40b9362167d8504f66920a1da834fdd64adc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "f39df0ecfdeb5179808c567d1eb91991853c5fd7c5ce6ed104dfff439f5d8883"
+metafile = true

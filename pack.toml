@@ -1,0 +1,12 @@
+name = "Origins Cerberus"
+author = "ImUrX"
+version = "1.2.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "172ca77d3373f5340e4c5d49974cbe02ed0165b79fb9456cc4d355ae4d89a4f7"
+
+[versions]
+fabric = "0.12.0"
+minecraft = "1.17.1"

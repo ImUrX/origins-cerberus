@@ -1,0 +1,14 @@
+name = "Origins (Fabric)"
+filename = "Origins-1.17-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3478/89/Origins-1.17-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1637820455"
+
+[update]
+[update.curseforge]
+file-id = 3478089
+project-id = 391943
+release-channel = "beta"
