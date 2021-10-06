@@ -1,6 +1,6 @@
 name = "LittleTweaks"
 filename = "littletweaks-0.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3478/188/littletweaks-0.1.1.jar"

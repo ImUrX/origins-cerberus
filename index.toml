@@ -13,6 +13,11 @@ file = "README.md"
 hash = "c43a0295026feede1eeb42eb9a96d7790a89b61caf27120957abed7e918aa5c5"
 
 [[files]]
+file = "mods/adorn.toml"
+hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "913b496f2738cb68a981fccaa49928d7f078bb5831030507b368d19e853236c3"
 metafile = true
@@ -75,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models-fabric.toml"
 hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.toml"
+hash = "d3c73e6eff74e893226483fbec2c613f63689c108d431ecd9e4aef5bcd83f0be"
 metafile = true
 
 [[files]]

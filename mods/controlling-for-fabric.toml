@@ -1,6 +1,6 @@
 name = "Controlling for Fabric"
 filename = "Controlling-For-Fabric-1.2.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3331/405/Controlling-For-Fabric-1.2.0.jar"

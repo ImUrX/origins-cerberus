@@ -1,6 +1,6 @@
 name = "Dynamic FPS"
 filename = "dynamic-fps-2.0.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3419/561/dynamic-fps-2.0.5.jar"

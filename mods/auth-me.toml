@@ -1,6 +1,6 @@
 name = "Auth Me"
 filename = "authme-1.17-1.5.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3345/35/authme-1.17-1.5.0.jar"
