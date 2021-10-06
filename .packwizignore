@@ -1,2 +1,5 @@
 .git/**
 .gitattributes
+Origins Cerberus*.zip
+.github/**
+bin/**

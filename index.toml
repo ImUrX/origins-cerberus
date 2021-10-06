@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".gitignore"
-hash = "7709d5824361e1f49712c8f1d9247efd5d1dde5271428478b7ea582175531891"
+hash = "270f7fa4fb07883dcc63f3837fded73ea66a0fc5358cbe35fcfa14ed691ea671"
 
 [[files]]
 file = "LICENSE"
@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "913b496f2738cb68a981fccaa49928d7f078bb5831030507b368d19e853236c3"
+hash = "0842ea5fbcbd73ed4547c74666dbb78609fed67152256b33c6a1e5dc9bf6d84d"
 metafile = true
 
 [[files]]
@@ -29,12 +29,12 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "4819af6e7d78be6fc3f8e22d5cf8dda7c051c862e3b2a01d3c4716f031446710"
+hash = "5fe188b4723cdee632669d53f50f02c7967c12d8c4db8b2df33703726a3cb49f"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "3d599d4dd3564729e799db2a4c48ebfe152a348dfff39200f6ef05ea6a957ffe"
+hash = "2884f9cefb45756217b8a6e3150ba2aee2c224b1eed93fe1c06fad8dec1e2236"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling-for-fabric.toml"
-hash = "01783b2083552cce21ee30a50e5416cafff9064a0ef4764f987e06e857fe98b0"
+hash = "5a4658e8c86268cc6f2a3d65a930c3025f2b6af1c0a3c4597c5586b20c899685"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+hash = "a384b0985e3e92c8790ce30f91cd6436fcaf01aafb73a903c866a864218eee50"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
+hash = "a1565a2f8b22aca843a939943778e188a5070de962fdb05eb9d1a82881b7d765"
 metafile = true
 
 [[files]]
@@ -144,17 +144,17 @@ metafile = true
 
 [[files]]
 file = "mods/littletweaks.toml"
-hash = "4551539b96ebf730cd9221ec90bcd562340be4fd21921547b5d6ee3ffdfe31fa"
+hash = "9fbd6271648535817a969ec53360f823eeef29ade4a79c267ae97bfa75c0f503"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "7c761c51deba63b76caffc2d41af96ccae70ef0cbb789db682d3fc7b43994f67"
+hash = "2220612fecf971695f0032026806a2a167a6f994dd71d9d8c455f0fccbab209a"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "4cc631d311069a2c3f72b1839f1e1d3368636f11908597036f438bede9f3e8ea"
+hash = "5ea01792f983b09c679501bb4beceb056256799e23bab58a9f3ab348f2392a09"
 metafile = true
 
 [[files]]
@@ -199,5 +199,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f39df0ecfdeb5179808c567d1eb91991853c5fd7c5ce6ed104dfff439f5d8883"
+hash = "9401a89248d352d2d0d3b7472862b7674d2803ae094d796ddd479d933b3d0bc5"
 metafile = true
