@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitignore"
-hash = "270f7fa4fb07883dcc63f3837fded73ea66a0fc5358cbe35fcfa14ed691ea671"
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "f6672d6a17d0f55d4bd8dac5bb064d5e2dfe411eacacf140c75ff9728fe4e2c2"
 
 [[files]]
 file = "LICENSE"
@@ -11,6 +11,10 @@ hash = "bcfc20d0ab70ec8915abc1c21e85f55e4c90610220199b012e65eda49e1796c3"
 [[files]]
 file = "README.md"
 hash = "c43a0295026feede1eeb42eb9a96d7790a89b61caf27120957abed7e918aa5c5"
+
+[[files]]
+file = "config/carpet/scripts/originaddons.sc"
+hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -80,6 +84,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models-fabric.toml"
 hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.toml"
+hash = "585fa02d7c247dcbbc1fc728b014235bab0da36540e3447f24e53d60401e19d0"
 metafile = true
 
 [[files]]
