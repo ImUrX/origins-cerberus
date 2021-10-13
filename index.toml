@@ -23,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "ebce66b0c3530f285f69adc48e0b740250103c0e1e4b8038112c509a4cc9483d"
+hash = "c1de125ae90ae35d2dc222d8ae876d52a97a6959a7d4b38c7c78e1fe46ef6ddc"
 metafile = true
 
 [[files]]
