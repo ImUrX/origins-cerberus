@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitignore"
-hash = "270f7fa4fb07883dcc63f3837fded73ea66a0fc5358cbe35fcfa14ed691ea671"
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "f6672d6a17d0f55d4bd8dac5bb064d5e2dfe411eacacf140c75ff9728fe4e2c2"
 
 [[files]]
 file = "LICENSE"
@@ -89,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models-fabric.toml"
 hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.toml"
+hash = "585fa02d7c247dcbbc1fc728b014235bab0da36540e3447f24e53d60401e19d0"
 metafile = true
 
 [[files]]

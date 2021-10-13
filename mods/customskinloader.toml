@@ -1,0 +1,14 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_Fabric-14.13-SNAPSHOT-282.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3400/201/CustomSkinLoader_Fabric-14.13-SNAPSHOT-282.jar"
+hash-format = "murmur2"
+hash = "4198538165"
+
+[update]
+[update.curseforge]
+file-id = 3400201
+project-id = 286924
+release-channel = "beta"
