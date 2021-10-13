@@ -1,11 +1,11 @@
 name = "Origins Cerberus"
 author = "ImUrX"
-version = "1.2.1"
+version = "1.3.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "26df6688a6f27529ecbbd61281bf277e370b2a8ae73103ff14dbb477cc25607c"
+hash = "bf7355d7660a5f7e4e736b0139e5ecdc8f26c93a37c63eec7c38fde75693ba71"
 
 [versions]
 fabric = "0.12.0"

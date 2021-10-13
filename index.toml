@@ -13,8 +13,17 @@ file = "README.md"
 hash = "c43a0295026feede1eeb42eb9a96d7790a89b61caf27120957abed7e918aa5c5"
 
 [[files]]
+file = "config/carpet/scripts/originaddons.sc"
+hash = "7d303cd9bcbea9918a18bbe248be257c3c8c13e137f18c691327f4688ff99741"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "0f8f135e5ded3fa1c6016107e5cd81f7e9e796d8352aececdca45ee16970262f"
+metafile = true
+
+[[files]]
+file = "mods/amecs.toml"
+hash = "ebce66b0c3530f285f69adc48e0b740250103c0e1e4b8038112c509a4cc9483d"
 metafile = true
 
 [[files]]
@@ -24,7 +33,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
@@ -89,12 +98,12 @@ metafile = true
 
 [[files]]
 file = "mods/extra-origins.toml"
-hash = "9fdc3ab12f72c12547ea1d1edfb67fca1fa4b272417f65839ff5da9ce67ec649"
+hash = "3bf367164b876c7a48dacfdc8a0f30bdfa06fda07f2ae5ed509d09032c62d63c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
+hash = "8db6db22ea6ebfecd19b82e2b58ab48c4c2d0ffc0069370864cc5e1d23d28413"
 metafile = true
 
 [[files]]
@@ -158,13 +167,8 @@ hash = "284b2fa3e560bd536e0eab5bf4b1ece1a49bf84622fdac0f80f47d2086a42b43"
 metafile = true
 
 [[files]]
-file = "mods/origins-the-planeswalker.toml"
-hash = "321718c3c47faac9de357d1e65cc06296f92c1f8fd749aa4c996bc5ebf0d3db0"
-metafile = true
-
-[[files]]
 file = "mods/origins.toml"
-hash = "4eb4e7e7931f8666af1ed35fc2a3b2c4694c26398c57cd3c4a76d92424b3e69a"
+hash = "556f92239b0957cbb403188c6497756c7fe5140d1cf5c3630d25395395c52fe3"
 metafile = true
 
 [[files]]
@@ -183,16 +187,21 @@ hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+hash = "aadf8856e950c51967b1f213be845be01f242416dc88fb426dfd78901e5afda9"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "ba45f34a9018ff5a9737b693f393c5dde767aa75dc2a0b377c6b7642e8f44a95"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6242f4ae0017232f0411b8df4a9f40b9362167d8504f66920a1da834fdd64adc"
+hash = "fbf7e6e450faa2f75cae4b2ad26228f68ef9133775eba9c7cbca634893250ad0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "9401a89248d352d2d0d3b7472862b7674d2803ae094d796ddd479d933b3d0bc5"
+hash = "4fb07d04340a6f094dd866eecd27d6cb77772c53b28635f2ceb21ba2b98c6201"
 metafile = true
