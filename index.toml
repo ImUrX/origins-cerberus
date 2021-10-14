@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-stars.toml"
-hash = "c028a1ef8e02e91d01a340f6dd242da9c42231cb605de9f4b207234e314c0a33"
+hash = "d11ed97ab6f309f2e4dea675c1609520b0202b3db710fd9f57a95963e925b075"
 metafile = true
 
 [[files]]
