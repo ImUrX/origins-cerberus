@@ -97,11 +97,6 @@ hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
 metafile = true
 
 [[files]]
-file = "mods/custom-stars.toml"
-hash = "d11ed97ab6f309f2e4dea675c1609520b0202b3db710fd9f57a95963e925b075"
-metafile = true
-
-[[files]]
 file = "mods/customskinloader.toml"
 hash = "585fa02d7c247dcbbc1fc728b014235bab0da36540e3447f24e53d60401e19d0"
 metafile = true
