@@ -162,9 +162,8 @@ hash = "2220612fecf971695f0032026806a2a167a6f994dd71d9d8c455f0fccbab209a"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.toml"
-hash = "5ea01792f983b09c679501bb4beceb056256799e23bab58a9f3ab348f2392a09"
-metafile = true
+file = "mods/mousewheelie-1.7.4-newconfig.3+mc1.17.1-pre1.jar"
+hash = "f4f2ee9a3afd7e6a9cb95c853b2b79d4b17d50ac4f8ebbee00d931afa3077108"
 
 [[files]]
 file = "mods/origins-classes.toml"
