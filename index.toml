@@ -27,6 +27,11 @@ hash = "c1de125ae90ae35d2dc222d8ae876d52a97a6959a7d4b38c7c78e1fe46ef6ddc"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas.toml"
+hash = "dfcd948056dd8659fd7635ac6fc3310f7ed00bc1cd13825d45fdaa32a0c32b88"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "0842ea5fbcbd73ed4547c74666dbb78609fed67152256b33c6a1e5dc9bf6d84d"
 metafile = true
@@ -92,6 +97,11 @@ hash = "f3b4df2de5afad429f91f31101a8cbde5e0a08117e15e14d054573cfd09289d3"
 metafile = true
 
 [[files]]
+file = "mods/custom-stars.toml"
+hash = "c028a1ef8e02e91d01a340f6dd242da9c42231cb605de9f4b207234e314c0a33"
+metafile = true
+
+[[files]]
 file = "mods/customskinloader.toml"
 hash = "585fa02d7c247dcbbc1fc728b014235bab0da36540e3447f24e53d60401e19d0"
 metafile = true
@@ -127,6 +137,11 @@ hash = "e2bd63456b06f4397ad85091a58d826f913514e5138c7a64c946f5e8d0210d40"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-mod.toml"
+hash = "97edbe3a58206a2b6c9360dac292ae9c26a78d70c45bda9c475073b086436557"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
@@ -134,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.toml"
 hash = "26ad38a6dfb9fe8c0e0fcd3b8b070a9efbfc3f86df3905f1da21128e7a325509"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
 metafile = true
 
 [[files]]
