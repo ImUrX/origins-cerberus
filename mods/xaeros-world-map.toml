@@ -12,3 +12,8 @@ hash = "2566002844"
 file-id = 3491646
 project-id = 317780
 release-channel = "beta"
+
+[option]
+optional = true
+default = true
+description = "Adds a world map (depends on the minimap)"

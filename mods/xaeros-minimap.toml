@@ -12,3 +12,8 @@ hash = "952059114"
 file-id = 3491661
 project-id = 263420
 release-channel = "beta"
+
+[option]
+optional = true
+default = true
+description = "Adds a minimap"

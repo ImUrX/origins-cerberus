@@ -127,8 +127,8 @@ hash = "274c0a33dd2d7b4bdc99978fa11b83f6b74deb0b1795303a968234f1eea241fc"
 metafile = true
 
 [[files]]
-file = "mods/icarus-fabric.toml"
-hash = "58bb4a692d0aee8aefcf688e80d9a84bc6a7e7e0961f6e584add011408555191"
+file = "mods/icarus.toml"
+hash = "a613ab7e2d586082910d1de1cf8745dfb70f51a719248945cb640dd874ae7afb"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "2e74608478c60c3fa7308b3670262f20eb4c2d13c2cf1ddce342cefb11162c00"
+hash = "02bc1832ed0de8b93654dc146b2c1308d75ff4791993b3da8c6556bcfcbd1a82"
 metafile = true
 
 [[files]]
@@ -222,10 +222,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6643b341a15a6f0bf1c05b1bfdcf44835272f9b2ea039e611022359f0094f2a9"
+hash = "1c8eeef374d409f8d1d0543e3d3418c98481bc036e2e72a49c44094e7df75b13"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f57b0fc537029a9a77548edae5d71a60176a37d7f6bb4795152eee55427014b1"
+hash = "8c9cf071ad9c950329b81303918767a9229cff2bb8a9e9e4adeb2453cbc94f3c"
 metafile = true
