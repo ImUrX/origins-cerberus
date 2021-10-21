@@ -216,6 +216,11 @@ hash = "33a25f5cc5b80ef21bd18cf1cfc04e11c5079dc3ff76d4d80aa0773985c459de"
 metafile = true
 
 [[files]]
+file = "mods/textile-backup.toml"
+hash = "5bb3aeab13273b6fd5673bfc78379f06d1e7aa271438cde519b1d3af591a2074"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "ba45f34a9018ff5a9737b693f393c5dde767aa75dc2a0b377c6b7642e8f44a95"
 metafile = true
