@@ -38,7 +38,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
 metafile = true
 
 [[files]]
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "50fc93bcbad5f6c6ae22dd8eeb8aebc7097b8eb139830665653a6091e8ba6690"
+hash = "5b1ee6559b394327ce71551cf5a0dde07444338566277859e7310f53636b02ad"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "a384b0985e3e92c8790ce30f91cd6436fcaf01aafb73a903c866a864218eee50"
+hash = "468bcd7bd2f37f307965f4993a0a2352ea3f7d44d84d8eb9ba89d5d4ac60ace9"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.toml"
-hash = "a613ab7e2d586082910d1de1cf8745dfb70f51a719248945cb640dd874ae7afb"
+hash = "e80e2079029c97f13f8408619d6c5111683e8d3545efcba24ab739f9de2cafe4"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "02bc1832ed0de8b93654dc146b2c1308d75ff4791993b3da8c6556bcfcbd1a82"
+hash = "23b163e328e666ee5b29fa748d9c59f8ae8be0950600901d6f00f514c00aac58"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "0494c91c0870aa1d122355e553f579ba13bade2429169ed1fff9e079413de503"
+hash = "b5b81d048e58776665818a72a1b841105f3db5069211a95fced944b16d515734"
 metafile = true
 
 [[files]]
@@ -227,10 +227,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "1c8eeef374d409f8d1d0543e3d3418c98481bc036e2e72a49c44094e7df75b13"
+hash = "f10a797b5667005878463115e8dc4f1e3aee94cb2bff3442e15f4e26c5b8cb3d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "8c9cf071ad9c950329b81303918767a9229cff2bb8a9e9e4adeb2453cbc94f3c"
+hash = "296bb3a736d784f5d354e7027617152ef0db591d66d83b8933eced09f25e1d6b"
 metafile = true
