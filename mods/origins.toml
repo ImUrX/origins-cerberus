@@ -1,14 +1,14 @@
 name = "Origins (Fabric)"
-filename = "Origins-1.17-1.1.2.jar"
+filename = "Origins-1.18-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3488/415/Origins-1.17-1.1.2.jar"
+url = "https://edge.forgecdn.net/files/3561/745/Origins-1.18-1.3.1.jar"
 hash-format = "murmur2"
-hash = "2112096934"
+hash = "867060022"
 
 [update]
 [update.curseforge]
-file-id = 3488415
+file-id = 3561745
 project-id = 391943
 release-channel = "beta"

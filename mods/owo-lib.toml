@@ -1,0 +1,14 @@
+name = "oωo (owo-lib)"
+filename = "owo-lib-0.4.0+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3614/813/owo-lib-0.4.0+1.18.jar"
+hash-format = "murmur2"
+hash = "1652080287"
+
+[update]
+[update.curseforge]
+file-id = 3614813
+project-id = 532610
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Haema"
+filename = "haema-1.8.2+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/400/haema-1.8.2+1.18.1.jar"
+hash-format = "murmur2"
+hash = "2274423514"
+
+[update]
+[update.curseforge]
+file-id = 3596400
+project-id = 391257
+release-channel = "beta"

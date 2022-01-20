@@ -1,0 +1,14 @@
+name = "Mushroom Origins"
+filename = "mushroomorigins-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3605/649/mushroomorigins-1.2.jar"
+hash-format = "murmur2"
+hash = "2143281337"
+
+[update]
+[update.curseforge]
+file-id = 3605649
+project-id = 552254
+release-channel = "beta"

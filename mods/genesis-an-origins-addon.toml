@@ -1,0 +1,14 @@
+name = "Genesis - An Origins Addon"
+filename = "genesis-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/152/genesis-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "356690865"
+
+[update]
+[update.curseforge]
+file-id = 3584152
+project-id = 478902
+release-channel = "beta"

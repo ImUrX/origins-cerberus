@@ -1,0 +1,14 @@
+name = "Comforts (Fabric)"
+filename = "comforts-fabric-1.0.0-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3551/346/comforts-fabric-1.0.0-1.18.jar"
+hash-format = "murmur2"
+hash = "2625394625"
+
+[update]
+[update.curseforge]
+file-id = 3551346
+project-id = 433539
+release-channel = "beta"

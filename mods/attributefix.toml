@@ -1,0 +1,14 @@
+name = "AttributeFix"
+filename = "AttributeFix-Fabric-1.18.1-13.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/419/AttributeFix-Fabric-1.18.1-13.0.4.jar"
+hash-format = "murmur2"
+hash = "2320809850"
+
+[update]
+[update.curseforge]
+file-id = 3611419
+project-id = 280510
+release-channel = "beta"

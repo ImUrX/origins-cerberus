@@ -1,0 +1,14 @@
+name = "Controlling"
+filename = "Controlling-fabric-1.18.1-9.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/13/Controlling-fabric-1.18.1-9.0.11.jar"
+hash-format = "murmur2"
+hash = "1582979318"
+
+[update]
+[update.curseforge]
+file-id = 3599013
+project-id = 250398
+release-channel = "beta"

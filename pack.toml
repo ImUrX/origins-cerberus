@@ -1,15 +1,15 @@
 name = "Origins Cerberus"
 author = "ImUrX"
-version = "1.5.0"
+version = "2.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "977fade6fa8467e4f877b5d4fe8e307d429257748837dc02f46c5b5b6f99f004"
+hash = "5d2424c3fb17056bf12c9983c456da4f2927a30c74db511c55a89891547c0122"
 
 [versions]
-fabric = "0.12.0"
-minecraft = "1.17.1"
+fabric = "0.12.12"
+minecraft = "1.18.1"
 
 [options]
-acceptable-game-versions = ["1.17"]
+acceptable-game-versions = ["1.18.1"]

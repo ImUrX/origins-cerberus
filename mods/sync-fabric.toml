@@ -1,0 +1,14 @@
+name = "Sync (Fabric)"
+filename = "sync-mc1.18-3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/648/sync-mc1.18-3.1.jar"
+hash-format = "murmur2"
+hash = "2352442151"
+
+[update]
+[update.curseforge]
+file-id = 3580648
+project-id = 515365
+release-channel = "beta"

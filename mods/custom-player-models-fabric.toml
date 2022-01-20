@@ -1,14 +1,14 @@
 name = "Customizable Player Models (Fabric)"
-filename = "CustomPlayerModels-Fabric-1.17-0.1.1b.jar"
+filename = "CustomPlayerModels-Fabric-1.18-0.2.0a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3480/348/CustomPlayerModels-Fabric-1.17-0.1.1b.jar"
+url = "https://edge.forgecdn.net/files/3574/345/CustomPlayerModels-Fabric-1.18-0.2.0a.jar"
 hash-format = "murmur2"
-hash = "816093124"
+hash = "4218604217"
 
 [update]
 [update.curseforge]
-file-id = 3480348
+file-id = 3574345
 project-id = 440597
 release-channel = "beta"

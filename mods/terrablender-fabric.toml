@@ -1,0 +1,14 @@
+name = "TerraBlender (Fabric)"
+filename = "TerraBlender-fabric-1.18.1-1.1.0.70.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/790/TerraBlender-fabric-1.18.1-1.1.0.70.jar"
+hash-format = "murmur2"
+hash = "843465548"
+
+[update]
+[update.curseforge]
+file-id = 3611790
+project-id = 565956
+release-channel = "beta"

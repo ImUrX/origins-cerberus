@@ -1,0 +1,14 @@
+name = "Oxidized"
+filename = "oxidized-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3602/767/oxidized-1.5.3.jar"
+hash-format = "murmur2"
+hash = "3623642111"
+
+[update]
+[update.curseforge]
+file-id = 3602767
+project-id = 506426
+release-channel = "beta"
