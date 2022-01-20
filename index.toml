@@ -44,6 +44,11 @@ hash = "5b99f32a9ce8e14db8e8bc6175635a8bf78f855ea22667eba6ebf7a2eda122a7"
 metafile = true
 
 [[files]]
+file = "mods/botania-fabric.toml"
+hash = "34c570df2f540503e6bd8fee4e0f1020c4c2651380e4970aeb43375070d47b27"
+metafile = true
+
+[[files]]
 file = "mods/carrier.toml"
 hash = "ff6b4b8967e943b47edf76649bd8645faad2c4b7713ed7bc12188dd4e5319b79"
 metafile = true
