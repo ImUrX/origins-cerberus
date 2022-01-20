@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
-hash = "ad7ca8b05e7672a40427da60224f08c0b3c3e9838858d96fc1e1e45de15e0b50"
+hash = "3adddc5dea47322e3cc664a6dc7af2314e68d9b2b12d29eb2083ced9fa10160e"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "e66a13fe68a867d5d8923e269cd88444e8715b4ba42647960ab95896a3efbf6e"
+hash = "9f6713b34606e2981f50480290512275307ba39d37a047209677712f41e008aa"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "dde71f88d311d419ad9bde82132351bba283c26bd04f6c4b567642880edf8367"
+hash = "48cfa2038c50162b9aaece8139ad454e7cfb7d776380fa3a3e2cd266e8c17a9f"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "94a3b906029ea8880814d0129f34ed503823f31ab5c186da261bf8aad49bd432"
+hash = "49ff256e6807496607c61207d38458f9bf7f7970e97dcd0636bd0747d89a806b"
 metafile = true
 
 [[files]]
@@ -310,5 +310,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "98f21dc8c3ae1ff97c58a2c1a8ce19806c97b66506fc2c1c0edc8cb5591ad70d"
+hash = "2380b5c8a1fd32a64341bd02a074290e754e5fc0f906247d80ff70b93d1097da"
 metafile = true
