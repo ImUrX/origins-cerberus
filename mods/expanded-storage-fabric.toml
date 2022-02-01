@@ -1,0 +1,14 @@
+name = "[Fabric] Expanded Storage"
+filename = "expandedstorage-7.3.6+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/771/expandedstorage-7.3.6+1.18.jar"
+hash-format = "murmur2"
+hash = "3463527377"
+
+[update]
+[update.curseforge]
+file-id = 3586771
+project-id = 317856
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Tiny Skeletons [Fabric]"
+filename = "TinySkeletons-v3.1.0-1.18.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3562/314/TinySkeletons-v3.1.0-1.18.1-Fabric.jar"
+hash-format = "murmur2"
+hash = "258877575"
+
+[update]
+[update.curseforge]
+file-id = 3562314
+project-id = 548708
+release-channel = "beta"
