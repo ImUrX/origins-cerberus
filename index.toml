@@ -29,6 +29,11 @@ hash = "7bdc9b8f48b74c15aea3bb2f873a403a3e41335ab3ca74498bfc9749423def2d"
 metafile = true
 
 [[files]]
+file = "mods/artifality.toml"
+hash = "ccfd6706e93e50ab62a62c3a85560dc0126b27c7a2f86dea1ffb5d64680bcf23"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.toml"
 hash = "2731b2ad84d82ca8463b8eeacb7cb7f5be2fd0445d9cfa4a43049993437d6d0c"
 metafile = true
@@ -46,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/betterend.toml"
 hash = "5b99f32a9ce8e14db8e8bc6175635a8bf78f855ea22667eba6ebf7a2eda122a7"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.toml"
+hash = "aea9c838a4f8fee6810f23c2ee2279dd096ebefeb92d7a600ebe65e8c4dbf593"
 metafile = true
 
 [[files]]

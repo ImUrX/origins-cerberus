@@ -1,0 +1,14 @@
+name = "Artifality"
+filename = "artifality-0.5.4-1.18.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3609/545/artifality-0.5.4-1.18.1-fabric.jar"
+hash-format = "murmur2"
+hash = "4265570769"
+
+[update]
+[update.curseforge]
+file-id = 3609545
+project-id = 490812
+release-channel = "beta"
