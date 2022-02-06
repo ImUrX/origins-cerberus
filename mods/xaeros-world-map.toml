@@ -1,0 +1,19 @@
+name = "Xaero's World Map"
+filename = "XaerosWorldMap_1.20.1_Fabric_1.18.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/670/XaerosWorldMap_1.20.1_Fabric_1.18.jar"
+hash-format = "murmur2"
+hash = "3619813763"
+
+[option]
+default = false
+description = "World map addon for the minimap mod"
+optional = true
+
+[update]
+[update.curseforge]
+file-id = 3626670
+project-id = 317780
+release-channel = "beta"

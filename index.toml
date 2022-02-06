@@ -229,6 +229,11 @@ hash = "589cfbff0aedc7ce63400e9f6842778e5b9dfda090c738b159bd7e652e5596f3"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.toml"
+hash = "b6c798bd1ded4c71f8e6681f2873207bc7995734274d8ee14ed22176446651ec"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "1cf73870594532f13b9c6aa3a55ff90a9c28884f3a887833bc95c70103a8d341"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/ninjaphenixs-container-library.toml"
 hash = "e594308df4bbfe7cb2321ebdc02d2cfe0b9134665e2f147a3ab68e942714da67"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "8aaf79fe028a11b52717168059c8aa808d0bd30118aa83a71c44004c3d3cef21"
 metafile = true
 
 [[files]]
@@ -381,4 +391,14 @@ metafile = true
 [[files]]
 file = "mods/wthit.toml"
 hash = "2380b5c8a1fd32a64341bd02a074290e754e5fc0f906247d80ff70b93d1097da"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "b7ab0d968f092fdca98fb6ac317ace0683fcf6cb042adad3b6999a1508141bae"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "30234fb06e3e903eb8c6e1b8ad11ea23a4e429115ea66029b74c3f1d5438e220"
 metafile = true

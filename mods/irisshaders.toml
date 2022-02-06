@@ -1,0 +1,19 @@
+name = "Iris Shaders"
+filename = "iris-mc1.18.1-1.2.0-pre.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3612/857/iris-mc1.18.1-1.2.0-pre.jar"
+hash-format = "murmur2"
+hash = "1505177577"
+
+[option]
+default = false
+description = "Optifine shaders but for fabric!"
+optional = true
+
+[update]
+[update.curseforge]
+file-id = 3612857
+project-id = 455508
+release-channel = "beta"
